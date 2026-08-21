@@ -1,0 +1,12 @@
+# Compiled class files
+bin/
+*.class
+
+# External libraries (download separately - see README)
+lib/*.jar
+
+# OS / IDE
+.DS_Store
+.idea/
+*.iml
+.vscode/
